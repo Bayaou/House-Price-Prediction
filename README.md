@@ -15,7 +15,7 @@ The project compares multiple regression algorithms and deploys the best-perform
 ## 🚀 Live Demo
 
 
-https://your-app.streamlit.app
+https://house-price-prediction-bu.streamlit.app
 
 ---
 
